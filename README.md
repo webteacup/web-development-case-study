@@ -2,6 +2,7 @@
 
 ## Contents
 - [Angular](https://github.com/webteacup/web-development-case-study/blob/main/README.md#angular)
+- [React](https://github.com/webteacup/web-development-case-study/blob/main/README.md#react)
 
 
 
@@ -11,3 +12,6 @@
 - [Building PDF Open Source Services with Angular & GCP — Handling long processing tasks](https://itnext.io/building-pdf-open-source-services-with-angular-gcp-handling-long-processing-tasks-e15cb4e511d3)
 - [Managing the Sticky Navigation: Angular, Tailwind, and RxJS](https://itnext.io/managing-the-sticky-navigation-angular-tailwind-and-rxjs-2f3a0147b1d9)
 - [Angular Challenges: Duplication Layout Code](https://itnext.io/angular-challenges-duplication-layout-code-49b4745f96a8)
+
+### React
+- [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
