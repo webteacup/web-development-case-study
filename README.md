@@ -15,3 +15,6 @@
 
 ### React
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+
+### Front End
+ - [Rollup: Shared UI components at AdRoll](http://tech.adroll.com/blog/frontend/2015/11/05/rollup-shared-ui-components.html)
